@@ -1,0 +1,15 @@
+# Example configuration for Local IR AC.
+#
+# Add this to configuration.yaml, then restart Home Assistant.
+# device_id and local_key belong to the IR BLASTER, not to the air conditioner.
+
+climate:
+  - platform: local_ir_ac
+    name: Living Room AC
+    host: 192.168.1.128
+    device_id: bf5e05d4a77f7d1767sese
+    local_key: 0123456789abcdef
+    codes_file: /config/local_ir_codes.json
+    min_temp: 20
+    max_temp: 26
+    device: AC

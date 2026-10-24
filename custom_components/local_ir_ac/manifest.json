@@ -1,0 +1,11 @@
+{
+  "domain": "local_ir_ac",
+  "name": "Local IR AC",
+  "version": "0.1.0",
+  "documentation": "https://github.com/viperxeyes/local-ir-ac",
+  "issue_tracker": "https://github.com/viperxeyes/local-ir-ac/issues",
+  "requirements": ["tinytuya>=1.15.1"],
+  "dependencies": [],
+  "codeowners": ["@viperxeyes"],
+  "iot_class": "local_push"
+}

@@ -1,0 +1,15 @@
+{
+  "_comment": "Placeholder frames. Replace every value with the hex you captured from your own remote; the names are what the integration looks up.",
+  "power_off": "0000",
+  "M0_T20_S0": "0000",
+  "M0_T21_S0": "0000",
+  "M0_T22_S0": "0000",
+  "M0_T23_S0": "0000",
+  "M0_T24_S0": "0000",
+  "M0_T25_S0": "0000",
+  "M0_T26_S0": "0000",
+  "M2_S0": "0000",
+  "M4_S0": "0000",
+  "speed_mode": "0000",
+  "heat_mode": "0000"
+}
